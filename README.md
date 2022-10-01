@@ -1,5 +1,5 @@
 
-![codewarrior](https://www.codewars.com/users/auroraptor/badges/micro)
+![<a href="https://www.codewars.com/users/auroraptor" target="_blank"/>](https://www.codewars.com/users/auroraptor/badges/micro)
 
 <!--
 **auroraptor/auroraptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
