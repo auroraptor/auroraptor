@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/website?color=CD5C5C&down_message=solutions&label=codewars&logo=codewars&style=for-the-badge&up_message=solutions&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fauroraptor%2Fcompleted_solutions" alt="codewars">](https://www.codewars.com/users/auroraptor)
 =======
 
-🧝🏻‍♀️   [<img src="https://img.shields.io/website?color=%23DCDCDC&down_message=add%20me&label=snapchat&logo=snapchat&style=for-the-badge&up_message=add%20me&url=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Faurociraptor%3Fshare_id%3DQjhDODgxNEItMTM3RC00OTc2LUJEQUYtMDYzOTFBQkEwNzg4%26locale%3Den_RU" alt="snapchat">](https://www.snapchat.com/add/aurociraptor?share_id=QjhDODgxNEItMTM3RC00OTc2LUJEQUYtMDYzOTFBQkEwNzg4&locale=en_RU)
+🦹🏼‍♀️   [<img src="https://img.shields.io/website?color=%23DCDCDC&down_message=add%20me&label=snapchat&logo=snapchat&style=for-the-badge&up_message=add%20me&url=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Faurociraptor%3Fshare_id%3DQjhDODgxNEItMTM3RC00OTc2LUJEQUYtMDYzOTFBQkEwNzg4%26locale%3Den_RU" alt="snapchat">](https://www.snapchat.com/add/aurociraptor?share_id=QjhDODgxNEItMTM3RC00OTc2LUJEQUYtMDYzOTFBQkEwNzg4&locale=en_RU)
 
 
 <!--
