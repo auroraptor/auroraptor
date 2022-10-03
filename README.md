@@ -1,8 +1,8 @@
 
-[<img src="https://www.codewars.com/users/auroraptor/badges/micro">](https://www.codewars.com/users/auroraptor)
-[<img src="https://img.shields.io/website?color=lightgrey&down_message=auroraptor&label=codepen&logo=codepen&url=https%3A%2F%2Fcodepen.io%2Fauroraptor">](https://codepen.io/auroraptor)
-[<img src="https://img.shields.io/website?color=%23F08080&down_message=collections&label=giphy&logo=giphy&style=for-the-badge&up_message=collections&url=https%3A%2F%2Fgiphy.com%2Fchannel%2Fauroraptor">](https://giphy.com/channel/auroraptor)
-[<img src="https://img.shields.io/website?color=%23B0E0E6&down_message=repls&label=replit&logo=replit&style=for-the-badge&up_message=repls&url=https%3A%2F%2Freplit.com%2F%40auroraptor">](https://replit.com/@auroraptor)
+[<img src="https://www.codewars.com/users/auroraptor/badges/micro" alt="codewars">](https://www.codewars.com/users/auroraptor)
+[<img src="https://img.shields.io/website?color=%23F8F8FF&down_message=pens&label=codepen&logo=codepen&style=for-the-badge&up_message=pens&url=https%3A%2F%2Fcodepen.io%2Fauroraptor" alt="codepen">](https://codepen.io/auroraptor)
+[<img src="https://img.shields.io/website?color=%23F08080&down_message=collections&label=giphy&logo=giphy&style=for-the-badge&up_message=collections&url=https%3A%2F%2Fgiphy.com%2Fchannel%2Fauroraptor" alt="giphy">](https://giphy.com/channel/auroraptor)
+[<img src="https://img.shields.io/website?color=%23B0E0E6&down_message=repls&label=replit&logo=replit&style=for-the-badge&up_message=repls&url=https%3A%2F%2Freplit.com%2F%40auroraptor" alt="replit">](https://replit.com/@auroraptor)
 
 
 <!--
