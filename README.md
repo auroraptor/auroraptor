@@ -2,7 +2,7 @@
 [<img src="https://www.codewars.com/users/auroraptor/badges/micro">](https://www.codewars.com/users/auroraptor)
 [<img src="https://img.shields.io/website?color=lightgrey&down_message=auroraptor&label=codepen&logo=codepen&url=https%3A%2F%2Fcodepen.io%2Fauroraptor">](https://codepen.io/auroraptor)
 [<img src="https://img.shields.io/website?color=red&down_message=auroraptor&label=giphy&logo=giphy&up_message=collections&url=https%3A%2F%2Fgiphy.com%2Fchannel%2Fauroraptor">](https://giphy.com/channel/auroraptor)
-[<img>src="https://img.shields.io/website?color=9cf&down_message=my%20repls&label=replit&logo=replit&up_message=collections&url=https%3A%2F%2Fhandlecardlike.auroraptor.repl.co"](https://replit.com/@auroraptor)
+[<img src="https://img.shields.io/website?color=9cf&down_message=my%20repls&label=replit&logo=replit&up_message=collections&url=https%3A%2F%2Fhandlecardlike.auroraptor.repl.co">](https://replit.com/@auroraptor)
 
 
 <!--
