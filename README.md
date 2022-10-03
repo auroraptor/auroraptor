@@ -1,8 +1,6 @@
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![rang](https://www.codewars.com/users/auroraptor/badges/micro)
-  
-  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+[<img src="https://www.codewars.com/users/auroraptor/badges/micro">](https://www.codewars.com/users/auroraptor)
+
 
 <!--
 **auroraptor/auroraptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
