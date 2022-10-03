@@ -6,7 +6,7 @@
 ======
 [<img src="https://img.shields.io/website?color=%23DAF7A6%20%20&down_message=CS50W&label=edx&logo=edx&style=for-the-badge&up_message=CS50W&url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fcs50s-web-programming-with-python-and-javascript%3Findex%3Dproduct%26queryID%3Db06185be231f615f92c276a87d591a9e%26position%3D3" alt="edx">](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript?index=product&queryID=b06185be231f615f92c276a87d591a9e&position=3)
 =======
-[<img src="https://img.shields.io/website?color=FFFFE0&down_message=add%20me&label=snapchat&logo=snapchat&style=for-the-badge&up_message=add%20me&url=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Faurociraptor%3Fshare_id%3DNTE3QUFDMzItMkZFMC00NzgyLUIyMTYtMjM5QTFGQzYzNzRD%26locale%3Den_RU" alt="snapchat">](https://www.snapchat.com/add/aurociraptor?share_id=NTE3QUFDMzItMkZFMC00NzgyLUIyMTYtMjM5QTFGQzYzNzRD&locale=en_RU)
+[<img src="https://img.shields.io/website?color=FFFFE0&down_message=add%20me&label=snapchat&logo=snapchat&style=for-the-badge&up_message=add%20me&url=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Faurociraptor%3Fshare_id%3DNTE3QUFDMzItMkZFMC00NzgyLUIyMTYtMjM5QTFGQzYzNzRD%26locale%3Den_RU" alt="snapchat">](https://www.snapchat.com/add/aurociraptor?share_id=QjhDODgxNEItMTM3RC00OTc2LUJEQUYtMDYzOTFBQkEwNzg4&locale=en_RU)
 
 
 <!--
