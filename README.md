@@ -10,7 +10,7 @@
 =======
 
 👩🏼‍🎓   [<img src="https://img.shields.io/website?color=%23DCDCDC&down_message=add%20me&label=snapchat&logo=snapchat&style=for-the-badge&up_message=add%20me&url=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Faurociraptor%3Fshare_id%3DQjhDODgxNEItMTM3RC00OTc2LUJEQUYtMDYzOTFBQkEwNzg4%26locale%3Den_RU" alt="snapchat">](https://www.snapchat.com/add/aurociraptor?share_id=QjhDODgxNEItMTM3RC00OTc2LUJEQUYtMDYzOTFBQkEwNzg4&locale=en_RU)
-
+=====
 
 <!--
 **auroraptor/auroraptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
