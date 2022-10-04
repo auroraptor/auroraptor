@@ -2,7 +2,7 @@
 
 👩🏼‍💻   [<img src="https://img.shields.io/website?color=%2366CDAA&down_message=pens&label=codepen&logo=codepen&style=for-the-badge&up_message=pens&url=https%3A%2F%2Fcodepen.io%2Fauroraptor" alt="codepen">](https://codepen.io/auroraptor)
 [<img src="https://img.shields.io/website?color=%2340E0D0&down_message=collections&label=giphy&logo=giphy&style=for-the-badge&up_message=collections&url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fcs50s-web-programming-with-python-and-javascript%3Findex%3Dproduct%26queryID%3Db06185be231f615f92c276a87d591a9e%26position%3D3" alt="giphy">](https://giphy.com/channel/auroraptor)
-[<img src="https://img.shields.io/website?color=%2300CED1&down_message=repls&label=replit&logo=replit&style=for-the-badge&up_message=repls&url=https%3A%2F%2Freplit.com%2F%40auroraptor" alt="replit">](https://replit.com/@auroraptor)
+[<img src="https://img.shields.io/website?color=%234682B4&down_message=repls&label=replit&logo=replit&style=for-the-badge&up_message=repls&url=https%3A%2F%2Freplit.com%2F" alt="replit">](https://replit.com/@auroraptor)
 ======
 
 👩🏼‍🎓   [<img src="https://img.shields.io/website?color=%23FF6347&down_message=stats&label=codewars&logo=codewars&style=for-the-badge&up_message=stats&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fauroraptor" alt="codewars">](https://www.codewars.com/users/auroraptor)
