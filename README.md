@@ -10,7 +10,7 @@
 ======
 
 🧝🏻‍♀️   [<img src="https://img.shields.io/website?color=%2332CD32&down_message=ama&label=github&logo=github&logoColor=white&style=for-the-badge&up_message=ama&url=https%3A%2F%2Fgithub.com%2Fauroraptor%2Fama" alt="Ask me anything">](https://github.com/auroraptor/ama)
-[<img src="https://img.shields.io/website?color=%2332CD32&down_message=add&label=cnapchat&logo=snapchat&logoColor=white&style=for-the-badge&up_message=add&url=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Faurociraptor" alt="snapchat">](https://www.snapchat.com/add/aurociraptor?share_id=NEFFNTExODYtRkNGQi00RjFFLThCQkItNzJEMjczODkxRDFG&locale=en_RU)
+[<img src="https://img.shields.io/website?color=%2332CD32&down_message=add&label=snapchat&logo=snapchat&logoColor=white&style=for-the-badge&up_message=add&url=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Faurociraptor" alt="snapchat">](https://www.snapchat.com/add/aurociraptor?share_id=NEFFNTExODYtRkNGQi00RjFFLThCQkItNzJEMjczODkxRDFG&locale=en_RU)
 =====
 
 
