@@ -5,7 +5,7 @@
 ======
 
 👩🏼‍🎓   [<img src="https://img.shields.io/website?color=%231E90FF&down_message=stats&label=codewars&logo=codewars&logoColor=white&style=for-the-badge&up_message=stats&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fauroraptor" alt="codewars">](https://www.codewars.com/users/auroraptor)
-[<img src="https://img.shields.io/website?color=%23FF69B4&down_message=pens&label=codepen&logo=codepen&style=for-the-badge&up_message=pens&url=https%3A%2F%2Fcodepen.io%2Fauroraptor" alt="codepen">](https://codepen.io/auroraptor)
+[<img src="https://img.shields.io/website?color=%231E90FF&down_message=pens&label=codepen&logo=codepen&logoColor=codepen&style=for-the-badge&up_message=codepen&url=https%3A%2F%2Fcodepen.io%2Fauroraptor" alt="codepen">](https://codepen.io/auroraptor)
 ======
 
 🧝🏻‍♀️   [<img src="https://img.shields.io/website?color=%2332CD32&down_message=ama&label=github&logo=github&logoColor=white&style=for-the-badge&up_message=ama&url=https%3A%2F%2Fgithub.com%2Fauroraptor%2Fama" alt="Ask me anything">](https://github.com/auroraptor/ama)
